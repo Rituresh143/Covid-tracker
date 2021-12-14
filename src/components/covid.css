@@ -1,0 +1,15 @@
+.card{
+    font-size: 20px;
+    border-radius: 10px;
+    /* justify-content: center; */
+    align-items: center;
+
+}
+.h1{
+    align-items: center;
+    justify-content: center;
+}
+.h2{
+    align-items: center;
+    justify-content: center;
+}
